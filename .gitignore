@@ -6,4 +6,5 @@ venv
 Commands.txt
 task.txt
 .env
+.json
 
